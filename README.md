@@ -1,3 +1,3 @@
 # Virtual-Memory-Simulator
 
-Using C programming language , This Virtual machine simulater has implemented and to execute the program use a linux environment.
+This virtual Memory simulater has implemented uing C programming language .To execute the program use a linux environment.
