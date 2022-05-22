@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "text.C": "cpp",
+        "functional": "c",
+        "typeindex": "c",
+        "typeinfo": "c",
+        "sstream": "c",
+        "regex": "c",
+        "*.tcc": "c",
+        "optional": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "terminal.integrated.sendKeybindingsToShell": false
+}

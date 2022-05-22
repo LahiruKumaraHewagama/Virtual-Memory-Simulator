@@ -1,0 +1,13 @@
+./a.out LRU
+write 10 202
+write 31 403
+read 72
+read 0
+read 12
+write 9 300
+showmain 1
+showptable
+write 32 40
+showmain 1
+showptable
+quit
